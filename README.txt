@@ -2,12 +2,14 @@
 
 This Project uses API's to fetch data from an open library.
 One can search for an Artist and see all their published albums and singles.
+The app can be run on both, iOS and Android, since React Native works for both OS.
 
 ## Instruction
 
-For Android: download the apk and run it on an emulator or on your phone.
-
-For iOS: follow the instructions here https://docs.expo.dev/build-reference/simulators/
+Due to file sizes over 25 MB I cannot provide the apk and tar.gz files.
+But you can create them by following these instructions
+https://docs.expo.dev/build-reference/apk/
+https://docs.expo.dev/build-reference/simulators/
 
 
 ### Implementation
